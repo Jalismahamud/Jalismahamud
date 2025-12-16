@@ -12,7 +12,7 @@ Hi there! I'm **Jalis Mahamud**, a passionate **Full Stack Developer** dedicated
 
 * **Tech Stack:** My expertise spans across **Laravel, Vue.js, React.js, RDBMS (MySQL/MongoDB)**, and **Cloud Infrastructure**.
 * **Current Focus:** I am deep-diving into **System Design Concepts** and **Integrating AI with Laravel** to build next-generation intelligent applications.
-* **Specialization:** I actively develop **Inventory Systems, RESTful APIs, and WordPress Plugins**, ensuring clean code and modular architecture.
+* **Specialization:** I actively develop **Inventory Systems, RESTful APIs**, ensuring clean code and modular architecture.
 * **Availability:** Currently, I'm **open to work and new opportunities** (Remote/On-site).
 * **Life Beyond Code:** When I’m not architecting systems, I enjoy hiking 🏔️, playing cricket 🏏, and exploring the latest in tech.
 
