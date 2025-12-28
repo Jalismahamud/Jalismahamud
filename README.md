@@ -1,7 +1,10 @@
 # ⚡ Full-Stack Developer | PHP & Laravel Specialist
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jalis's Stats" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&rank_icon=github" alt="My Stats" />
 </div>
 
 ---
