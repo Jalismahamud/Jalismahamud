@@ -1,7 +1,7 @@
 # Full-Stack Developer | PHP & Laravel Specialist
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jalis's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jalis's GitHub Stats" />
 </div>
 
 ---
@@ -48,7 +48,8 @@ Currently pioneering the integration of **AI models within Laravel environments*
 ### 📊 Activity & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalismahamud&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalismahamud&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalismahamud&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
