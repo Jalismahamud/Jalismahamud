@@ -27,7 +27,7 @@ Hi there! I'm **Jalis Mahamud**, a passionate **Full Stack Developer** dedicated
 Experienced in architecting **robust and maintainable systems**. I focus on clean abstractions, SOLID principles, and modularity to ensure applications are fault-tolerant and ready for high-traffic environments.
 
 #### 🔗 Advanced API & Security Architecture
-Expert in creating **secure RESTful APIs**. I specialize in complex authentication workflows including **Laravel Breeze, JWT, Passport, and Sanctum**, combined with **Spatie Role Management** for granular authorization.
+Expert in creating **secure RESTful APIs**. I specialize in complex authentication workflows, including **Laravel Breeze, JWT, Passport, and Sanctum**, combined with **Spatie Role Management** for granular authorization.
 
 #### 🤖 AI Integration & Automation
 Currently pioneering the integration of **AI models within Laravel environments**. I leverage **Laravel Reverb, Socket.io, and WebRTC** to build real-time, automated systems that provide seamless user experiences.
@@ -62,8 +62,10 @@ Currently pioneering the integration of **AI models within Laravel environments*
 <p align="left">
 <a href="https://www.linkedin.com/in/jalis-mahamud-546039363/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
 <a href="mailto:jalismahamud31@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
-<a href="http://jalis.epizy.com/" target="blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" /></a>
+<a href="https://codewithjalis.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" /></a>
 <a href="https://instagram.com/j__a__l__i__s" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
+<a href="https://x.com/j_a_l_i_s" target="blank"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" height="35" /></a>
+<a href="https://medium.com/@jalismahamud31" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" /></a>
 </p>
 
 <p align="center"><i>"Code is poetry when written with purpose."</i></p>
