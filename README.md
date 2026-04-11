@@ -1,8 +1,6 @@
 # Full-Stack Developer | PHP & Laravel Specialist
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4176008/media/7e2a3b0d8a5d9666b6f3c2d8d2c1d8e6.gif" alt="Coding Animation" width="600" />
-</div>
+![Coding Avatar](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&rank_icon=github" alt="Jalis's Stats" />
