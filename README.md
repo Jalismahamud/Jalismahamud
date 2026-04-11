@@ -1,8 +1,9 @@
 # Full-Stack Developer | PHP & Laravel Specialist
 
-<div align="center">
- ![Coding Avatar](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" />
+</p>
 
 ---
 
