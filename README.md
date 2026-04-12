@@ -65,4 +65,6 @@ Currently pioneering the integration of **AI models within Laravel environments*
 <a href="https://medium.com/@jalismahamud31" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" /></a>
 </p>
 
-<p align="center"><i>"Code is poetry when written with purpose."</i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDViMTZ6Y2psem5yMGt4MW85cmI1Y2t1eHlvdWcwMTc1OHh5Y2p0byZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/LPFNd1AJBoYcVUExmE/giphy.gif" height="250" />
+</p>
