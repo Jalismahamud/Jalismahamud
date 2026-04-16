@@ -45,7 +45,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ---
 
-### 📊 Activity & Impact
+### Activity & Impact
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalismahamud&layout=compact&theme=tokyonight" alt="Top Langs" />
@@ -53,6 +53,36 @@ Currently pioneering the integration of **AI models within Laravel environments*
 </div>
 
 ---
+
+
+<div align="center">
+
+### 👨‍💻 Your Name (Your Username)
+
+- 🔥 **1k+ Contributions in 2026**
+- 📦 **50+ Repositories**
+- 🕒 **Joined GitHub 3 years ago**
+- 🌐 **Website:** [yourwebsite.com](https://jalisdev.com)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalismahamud&theme=react-dark&hide_border=true)](https://github.com/Jalismahamud)
+
+---
+
+### ⚡ GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jalismahamud&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalismahamud&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
 
 ### 🌐 Connect with Me
 
