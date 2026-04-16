@@ -52,7 +52,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 - 🔥 **1k+ Contributions in 2026**
 - 📦 **50+ Repositories**
 - 🕒 **Joined GitHub 3 years ago**
-- 🌐 **Website:** [yourwebsite.com](https://jalisdev.com)
+- 🌐 **Website:** (https://jalisdev.com)
 
 </div>
 
