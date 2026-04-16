@@ -45,19 +45,9 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ---
 
-### Activity & Impact
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalismahamud&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalismahamud&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-
 <div align="center">
 
-### 👨‍💻 Your Name (Your Username)
+### 👨‍💻 Jalis Mahamud 
 
 - 🔥 **1k+ Contributions in 2026**
 - 📦 **50+ Repositories**
