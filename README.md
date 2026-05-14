@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" />
 </p>
-
 ---
 <img src="https://komarev.com/ghpvc/?username=Jalismahamud&style=flat-square&color=blueviolet" alt="Jalismahamud"/>
 ### 👨‍💻 About Me
