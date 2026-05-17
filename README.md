@@ -15,7 +15,7 @@ Hi there! I'm **Jalis Mahamud**, a passionate **Full Stack Developer** dedicated
 * **Life Beyond Code:** When I’m not architecting systems, I enjoy hiking 🏔️, playing cricket 🏏, and exploring the latest in tech.
 
 ---
-
+ 
 ### 🧩 Skills & Expertise
 
 #### ⚙️ System Architecture & Design
