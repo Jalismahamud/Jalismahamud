@@ -5,8 +5,13 @@
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Jalismahamud&style=flat-square&color=blueviolet" alt="Jalismahamud"/>
-### 👨‍💻 About Me
-Hi there! I'm **Jalis Mahamud**, a passionate **Full Stack Developer** dedicated to building scalable, performant, and secure web applications. With over 3 years of professional experience, I specialize in the PHP/Laravel ecosystem, crafting robust backends and interactive frontends.
+### About Me
+
+Hi there! I'm **Jalis Mahamud**, a passionate **Full Stack Developer** with over **3 years of professional experience** in building scalable, secure, and high-performance web applications.
+
+I specialize in the **PHP/Laravel ecosystem**, along with modern frontend technologies like **Vue.js**, **JavaScript**, and **Tailwind CSS**.
+
+I enjoy turning complex problems into simple, elegant solutions and continuously learning new technologies to improve my craft.
 
 * **Tech Stack:** My expertise spans across **Laravel, Vue.js, React.js, RDBMS (MySQL/MongoDB)**, and **Cloud Infrastructure**.
 * **Current Focus:** I am deep-diving into **System Design Concepts** and **Integrating AI with Laravel** to build next-generation intelligent applications.
