@@ -31,7 +31,7 @@ Expert in creating **secure RESTful APIs**. I specialize in complex authenticati
 Currently pioneering the integration of **AI models within Laravel environments**. I leverage **Laravel Reverb, Socket.io, and WebRTC** to build real-time, automated systems that provide seamless user experiences.
 
 ---
- 
+
 ### 🛠️ Technical Ecosystem
 
 | Category                  | Technologies |
