@@ -18,7 +18,6 @@ I enjoy turning complex problems into simple, elegant solutions and continuously
 * **Life Beyond Code:** When I’m not architecting systems, I enjoy hiking 🏔️, playing cricket 🏏, and exploring the latest in tech.
 
 ----
- 
 ### 🧩 Skills & Expertise
 
 #### ⚙️ System Architecture & Design
