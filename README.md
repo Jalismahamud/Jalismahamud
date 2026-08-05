@@ -16,7 +16,6 @@ I enjoy turning complex problems into simple, elegant solutions and continuously
 * **Specialization:** I actively develop **Inventory Systems, RESTful APIs**, ensuring clean code and modular architecture.
 * **Availability:** Currently, I'm **open to work and new opportunities** (Remote/On-site).
 * **Life Beyond Code:** When I’m not architecting systems, I enjoy hiking 🏔️, playing cricket 🏏, and exploring the latest in tech.
-
 ----
 ### 🧩 Skills & Expertise
 
