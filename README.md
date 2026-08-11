@@ -61,7 +61,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalismahamud&theme=react-dark&hide_border=true)](https://github.com/Jalismahamud)
 
 ---
-
+<!--
 ### ⚡ GitHub Stats
 
 <div align="center">
@@ -71,7 +71,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jalismahamud&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
-
+-->
 ### 🌐 Connect with Me
 
 <p align="left">
