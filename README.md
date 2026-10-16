@@ -48,9 +48,9 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ### 👨‍💻 Jalis Mahamud 
 
--  **1k+ Contributions in 2026**
+-  **2k+ Contributions in 2026**
 -  **50+ Repositories**
--  **Joined GitHub 3 years ago**
+-  **Joined GitHub 4 years ago**
 -  **Website:** (https://jalisdev.com)
 </div>
 
