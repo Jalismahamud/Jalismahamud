@@ -17,20 +17,20 @@ I enjoy turning complex problems into simple, elegant solutions and continuously
 * **Availability:** Currently, I'm **open to work and new opportunities** (Remote/On-site).
 * **Life Beyond Code:** When I’m not architecting systems, I enjoy hiking 🏔️, playing cricket 🏏, and exploring the latest in tech.
 ----
-### 🧩 Skills & Expertise  
+###  Skills & Expertise  
 
-#### ⚙️ System Architecture & Design
+####  System Architecture & Design
 Experienced in architecting **robust and maintainable systems**. I focus on clean abstractions, SOLID principles, and modularity to ensure applications are fault-tolerant and ready for high-traffic environments.
 
-#### 🔗 Advanced API & Security Architecture
+####  Advanced API & Security Architecture
 Expert in creating **secure RESTful APIs**. I specialize in complex authentication workflows, including **Laravel Breeze, JWT, Passport, and Sanctum**, combined with **Spatie Role Management** for granular authorization.
 
-#### 🤖 AI Integration & Automation
+####  AI Integration & Automation
 Currently pioneering the integration of **AI models within Laravel environments**. I leverage **Laravel Reverb, Socket.io, and WebRTC** to build real-time, automated systems that provide seamless user experiences.
 
 ---
 
-### 🛠️ Technical Ecosystem
+###  Technical Ecosystem
 
 | Category                  | Technologies |
 |---------------------------|--------------|
@@ -48,21 +48,21 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ### 👨‍💻 Jalis Mahamud 
 
-- 🔥 **1k+ Contributions in 2026**
-- 📦 **50+ Repositories**
-- 🕒 **Joined GitHub 3 years ago**
-- 🌐 **Website:** (https://jalisdev.com)
+-  **1k+ Contributions in 2026**
+-  **50+ Repositories**
+-  **Joined GitHub 3 years ago**
+-  **Website:** (https://jalisdev.com)
 </div>
 
 ---
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 [![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalismahamud&theme=react-dark&hide_border=true)](https://github.com/Jalismahamud)
 
 ---
 <!--
-### ⚡ GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 </div>
 -->
-### 🌐 Connect with Me
+###  Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jalis-mahamud-546039363/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
