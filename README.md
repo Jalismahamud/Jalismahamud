@@ -58,7 +58,11 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ###  Contribution Graph
 
-[![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jalismahamud&theme=react-dark&hide_border=true)](https://github.com/Jalismahamud)
+<p align="center">
+  <a href="https://github.com/Jalismahamud">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalismahamud&theme=react-dark&hide_border=true&area=true" alt="Jalismahamud's GitHub activity graph" width="100%" />
+  </a>
+</p>
 
 ---
 <!--
