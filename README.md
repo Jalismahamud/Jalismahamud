@@ -30,6 +30,7 @@ Currently pioneering the integration of **AI models within Laravel environments*
 
 ---
 
+
 ###  Technical Ecosystem
 
 | Category                  | Technologies |
