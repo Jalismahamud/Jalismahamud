@@ -19,6 +19,7 @@ I enjoy turning complex problems into simple, elegant solutions and continuously
 ----
 ###  Skills & Expertise  
 
+
 ####  System Architecture & Design
 Experienced in architecting **robust and maintainable systems**. I focus on clean abstractions, SOLID principles, and modularity to ensure applications are fault-tolerant and ready for high-traffic environments.
 
